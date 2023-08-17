@@ -20,7 +20,6 @@ export function App () {
     const data = await resp.json()
     const dataFact = await data.fact
     setFact(dataFact)
-    // separo la primera palabra
   }
   const getImage = async () => {
     const dataFirstWord = fact.split(' ')[0]
