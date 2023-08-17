@@ -10,3 +10,7 @@ CONSGNAS:
 - Recuperar la primera palabra del hecho
 - Muestra una imagen de un gato con la primera palabra del hecho recuperado usando la segunda API.
 
+Para ver el resultado, hacé click [aqui](https://apigatos-react.netlify.app/)
+
+### Autora
+- María Lourdes García
